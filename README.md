@@ -3,11 +3,11 @@
 
 > This is a contact form that allows a user to enter different information and send it to a server.
 
-![aweb-dev](https://user-images.githubusercontent.com/75126481/150657182-393f37dc-dd46-4430-8a89-2655fa106631.png)
+
 
 # Live demo
 
-[Live Demo](https://hiromataba.github.io/dev-web/)
+[Live Demo](https://hiromataba.github.io/contact-form-test/)
 
 
 ## Built With
@@ -19,9 +19,9 @@
 
 To get a local copy up and running follow these simple example steps.
 
-1. Copy this link `https://github.com/hiromataba/dev-web`
+1. Copy this link `https://github.com/hiromataba/contact-form-test`
 2. In your terminal run:
-- `git clone git@github.com:hiromataba/dev-web.git` 
+- `git clone git@github.com:hiromataba/contact-form-test.git` 
 3. open the project in your code editor 
 5. Run the live server or simply open index.html your browser.
 
